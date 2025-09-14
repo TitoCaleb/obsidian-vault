@@ -1,0 +1,6 @@
+- **Instancia EC2**: AMI (SO) + Tamaño de la instancia (CPU + RAM) + Almacenamiento + Grupos de seguridad + Datos de usuario
+- **Grupos de seguridad**: Firewall adjunto a la instancia EC2
+- **Datos de usuario EC2**: Script lanzado en el primer arranque de una instancia
+- **SSH**: iniciar un terminal en nuestras instancias EC2 (puerto 22)
+- **Rol de la Instancia EC2**: enlace a los roles IAM
+- **Opciones de compra**: On-demand, Spot, Reservada (Estándar + Convertible + programada), Host Dedicado, Instancia dedicada

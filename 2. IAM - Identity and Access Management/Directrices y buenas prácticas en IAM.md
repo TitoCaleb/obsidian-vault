@@ -1,0 +1,9 @@
+- No utilices la cuenta root excepto para la configuración de la cuenta AWS
+- Un usuario fisico = Un usuario AWS
+- Asignar usuarios a grupos y asignar permisos a grupos
+- Crear una politica de contraseñas fuerte
+- Utilizar y reforzar el uso de la autenticación multifactor (MFA)
+- Crear y utilizar Roles para dar permisos a los servicios de AWS
+- Utilizar claves de acceso para el acceso pragmatico (CLI / SDK)
+- Revisar los permisos de tu cuenta con el informe de credenciales de IAM o el asesor de acceso de IAM
+- **No compartir los usuarios IAM, NUNCA!**

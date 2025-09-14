@@ -1,0 +1,5 @@
+- IAM Credentials Report (a nivel de cuenta)
+	- Un informe que enumera todos los usuarios de tu cuenta y el estado de tus diversas credenciales
+- IAM Access Advisor
+	- Muestra los permisos de servicio concedidos a un usuario y cuando se accedió a esos servicios por ultima vez
+	- Puedes utilizar esta informacion para revisar tus politicas
