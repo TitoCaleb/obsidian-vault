@@ -1,9 +1,0 @@
-- **USUARIOS** : mapeado a un usuario físico, tiene una contraseña para la consola de AWS
-- **GRUPOS**: contiene sólo usuarios
-- **POLÍTICAS**: Documento JSON que describe los permisos para los usuarios o grupos
-- **ROLES**: para instancias EC2 o servicios AWS
-- **SEGURIDAD**: MFA + Políticas de contraseñas
-- **AWS CLI**: gestiona tus servicios de AWS mediante la línea de comandos
-- **AWS SDK**: gestiona tus servicios de AWS utilizando lenguaje de programación
-- **CLAVES DE ACCESO**: accede a AWS mediante la CLI o el SDK
-- **AUDITORIA**: Informes de credenciales de IAM y Asesor de acceso de IAM

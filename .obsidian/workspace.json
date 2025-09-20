@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c577ce9ad84cb665",
+        "id": "f59173ce5e68449f",
         "type": "tabs",
         "children": [
           {
-            "id": "a5799b855e21c993",
+            "id": "a42c9ba286a0c163",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Cloud Computing/a. Qué es el Cloud Computing.md",
-                "mode": "source",
+                "file": "5. Networking and Content Delivery/b. Amazon VPC.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a. Qué es el Cloud Computing"
-            }
-          },
-          {
-            "id": "fbfd3c4078331008",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. IAM - Identity and Access Management/Visión general de IAM MFA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Visión general de IAM MFA"
+              "title": "b. Amazon VPC"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,44 +162,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbfd3c4078331008",
+  "active": "a42c9ba286a0c163",
   "lastOpenFiles": [
-    "2. IAM - Identity and Access Management/Usuarios, grupos y políticas.md",
-    "2. IAM - Identity and Access Management/Roles de IAM para los servicios.md",
-    "2. IAM - Identity and Access Management/Políticas IAM.md",
-    "2. IAM - Identity and Access Management/Resumen - IAM.md",
-    "2. IAM - Identity and Access Management/Modelo de responsabilidad compartida para IAM.md",
-    "2. IAM - Identity and Access Management/Herramientas de Seguridad de IAM.md",
-    "2. IAM - Identity and Access Management/Directrices y buenas prácticas en IAM.md",
-    "2. IAM - Identity and Access Management/Claves de acceso AWS, CLI Y SDK.md",
-    "2. IAM - Identity and Access Management/CLI Clave de acceso.md",
-    "3. EC2 - Elastic Compute Cloud/Fundamentos de EC2.md",
-    "3. EC2 - Elastic Compute Cloud/Grupos de seguridad y puertos clásicos.md",
-    "3. EC2 - Elastic Compute Cloud/Lanzamiento de una instancia de EC2 con Linux.md",
-    "3. EC2 - Elastic Compute Cloud/Modelo de responsabilidad compartida para EC2.md",
-    "3. EC2 - Elastic Compute Cloud/Opciones de compra de instancia EC2.md",
-    "3. EC2 - Elastic Compute Cloud/RESUMEN - EC2.md",
-    "3. EC2 - Elastic Compute Cloud/Tabla resumen SSH.md",
-    "3. EC2 - Elastic Compute Cloud/Tipos de instancias de EC2 - Visión General.md",
-    "4. Almacenamiento de instancias EC2/Visión general de EBS.md",
-    "Pasted image 20250905140812.png",
-    "1. Cloud Computing/c. Infraestructura global de AWS.md",
-    "1. Cloud Computing/d. Historia de Cloud de AWS.md",
-    "1. Cloud Computing/e.  Modelo de responsabilidad compartida.md",
-    "1. Cloud Computing/b. Tipos de Cloud Computing.md",
-    "1. Cloud Computing/d. Infraestructura Global de AWS.md",
+    "5. Networking and Content Delivery/a. Networking Basics.md",
+    "4. IAM - Identity and Acess Management/b. AWS Shared responsability Model.md",
+    "4. IAM - Identity and Acess Management/a. AWS IAM.md",
+    "5. Networking and Content Delivery/b. Amazon VPC.md",
     "1. Cloud Computing/a. Qué es el Cloud Computing.md",
+    "Almacenamiento de instancias EC2/Visión general de EBS.md",
+    "5. Networking and Content Delivery",
+    "IAM - Identity and Access Management/Directrices y buenas prácticas en IAM.md",
+    "IAM - Identity and Access Management/Herramientas de Seguridad de IAM.md",
+    "IAM - Identity and Access Management/Claves de acceso AWS, CLI Y SDK.md",
+    "IAM - Identity and Access Management/Visión general de IAM MFA.md",
+    "IAM - Identity and Access Management/Usuarios, grupos y políticas.md",
+    "IAM - Identity and Access Management/Roles de IAM para los servicios.md",
+    "IAM - Identity and Access Management/Resumen - IAM.md",
+    "IAM - Identity and Access Management/Políticas IAM.md",
+    "IAM - Identity and Access Management/Modelo de responsabilidad compartida para IAM.md",
+    "1. Cloud Computing/e.  Modelo de responsabilidad compartida.md",
+    "2. Economics and Billing/a. AWS Pricing Model.md",
+    "2. Economics and Billing/b. Costo total de Propiedad (TCO).md",
+    "2. Economics and Billing/c. AWS Pricing Calculator.md",
+    "2. Economics and Billing/d. AWS Organizations.md",
+    "2. Economics and Billing/e. AWS Billing.md",
+    "2. Economics and Billing/f. AWS Support.md",
+    "3. AWS Global Infrastructure Overview/b. AWS Ventajas de la infraestructura.md",
+    "3. AWS Global Infrastructure Overview/a. Estructura de AWS.md",
+    "Pasted image 20250905140812.png",
+    "4. IAM - Identity and Acess Management",
+    "2. IAM - Identity and Access Management/Visión general de IAM MFA.md",
+    "3. AWS Global Infrastructure Overview/Untitled",
+    "IAM - Identity and Access Management",
+    "EC2 - Elastic Compute Cloud/Tipos de instancias de EC2 - Visión General.md",
+    "EC2 - Elastic Compute Cloud",
+    "Almacenamiento de instancias EC2",
+    "3. AWS Global Infrastructure Overview",
+    "2. Economics and Billing",
     "Untitled 4.base",
-    "Untitled 5.base",
-    "Untitled 3.base",
-    "Untitled.base",
-    "1. Cloud Computing/Modelos de Despliegue.md",
-    "1. Cloud Computing/Qué es el Cloud Computing.md",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "4. Almacenamiento de instancias EC2",
-    "3. EC2 - Elastic Compute Cloud",
-    "2. IAM - Identity and Access Management",
-    "1. Cloud Computing"
+    "Untitled 5.base"
   ]
 }

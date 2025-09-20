@@ -1,1 +1,0 @@
-No solo se puede crear políticas de seguridad directamente a los roles de usuario, sino también a un ROL de servicios
